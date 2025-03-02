@@ -17,7 +17,7 @@
 🎓 **KDT AI 활용 백엔드 심화 과정 수료**  
 🎓 **SKT FLYAI AI Challenger 1기**  
 
-## 📬 Let's Connect!
+## 📬 Connect
 📧 `jelliclesu@naver.com`  
 📌 [Tech Blog](https://jelliclesu.tistory.com/)  
-🔗 [GitHub](https://github.com/jelliclesu)  
+🔗 [GitHub](https://github.com/jelliclesu)
