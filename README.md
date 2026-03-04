@@ -20,13 +20,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-000000?style=flat-square&logo=Grafana&logoColor=white"/>
-</p>
-
 <h2 align="center">📬 Connect</h2>
 <p align="center">
   <a href="mailto:jelliclesu@naver.com">
